@@ -34,6 +34,8 @@ public class Gitclass {
         
         
         System.out.println("colaborador ingrese clase");
+        System.out.println("realizando prueba remota, elijo perro");
+        
     
 }
 }
