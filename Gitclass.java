@@ -21,6 +21,7 @@ public class Gitclass {
         String color;
         System.out.println("ingrese edad del caballo");
         System.out.println("prueba github");
+        String test;
         
         
         
