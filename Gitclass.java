@@ -22,6 +22,9 @@ public class Gitclass {
         System.out.println("ingrese edad del caballo");
         System.out.println("prueba github");
         String test;
+        String Gonzalo;
+        String atrib;
+        
         
         
         
