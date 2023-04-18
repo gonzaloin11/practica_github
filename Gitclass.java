@@ -21,7 +21,7 @@ public class Gitclass {
         String color;
         System.out.println("ingrese edad del caballo");
         
-        
+        System.out.println("colaborador agregue su clase");
          
     }
     
