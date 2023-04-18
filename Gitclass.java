@@ -20,9 +20,20 @@ public class Gitclass {
         int cantidad;
         String color;
         System.out.println("ingrese edad del caballo");
+        System.out.println("prueba github");
         
-        System.out.println("colaborador agregue su clase");
+        
+        
+        
          
-    }
+    } public static void rama1 (String[] args) {
+        String Caballo;
+        int edad;
+        int cantidad;
+        String color;
+        
+        
+        System.out.println("colaborador ingrese clase");
     
+}
 }
